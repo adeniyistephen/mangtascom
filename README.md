@@ -1,1 +1,2 @@
 # mangtascom
+word counter service
