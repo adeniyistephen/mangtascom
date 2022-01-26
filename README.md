@@ -1,2 +1,2 @@
 # mangtascom
-word counter service
+Word counter service
